@@ -1,2 +1,2 @@
 # market_analysis
-Marketing data analysis that drives pricing and positioning decisions
+While getting my MBA, I took a course on market/business pricing and positioning.  This class was heavy on data science and analytics and was ahead of its time.  The course was given with SPSS as the default analysis tool.  I will be recreating these projects in Python.  Projects from this course include many unsupervised learning problems including market segmentation, brand positioning, product perceptual mapping, and means-end analysis (hierachal value maps).  There is also a section on conjoint analysis that would fall into the category of supervised learning because you take customer survey results to predict their future willingness to buy products at certain prices.
